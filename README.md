@@ -1,4 +1,4 @@
-# DURI workstream group
+# [GEM Japan](https://www.amed.go.jp/en/aboutus/collaboration/ga4gh_gem_japan.html) DURI workstream group
 
 - Chisato Yamasaki* (Osaka University)
 - Soichi Ogishima* (Tohoku University) 
